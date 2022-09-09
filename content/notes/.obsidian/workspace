@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "df1ef30b527a2789",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8d25227cf875109",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5467300c97c451b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d65278bbcfa884d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ce9138db4a9fa1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "27823146acdcfa05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37dc3dd2a566b315",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1f640fd4cab3268",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5083885192871
+  },
+  "right": {
+    "id": "9fc90fbfbc2baa7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c52713ebcfa47a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c23ad8c1570ba048",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89ed0a362d5425d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6785732da1e7bc63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5139ae18ea4d9577",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d8d25227cf875109",
+  "lastOpenFiles": [
+    "editing.md",
+    "Notes/Neural Network (NN).md",
+    "Notes/Bias-Variance Tradeoff.md",
+    "Notes/Neural Tangent Kernel (NTK).md",
+    "Notes/Moment Matching.md",
+    "Notes/Goedel's Incompleteness Theorems.md",
+    "Notes/No Free Lunch (NFL) Theorems.md",
+    "Notes/Generalized Linear Model (GLM).md",
+    "Notes/Regularization.md",
+    "Notes/Manifold Hypothesis.md"
+  ]
+}
