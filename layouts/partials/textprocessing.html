@@ -32,7 +32,7 @@
       {{$content = replace $content . $img}}
     {{else}}
       {{$inner := . | strings.TrimPrefix "[[" | strings.TrimSuffix "]]" }}
-      {{$split := split $inner "|"}}
+      {{$split := split $inner "/"}}
       {{$path := index $split 0}}
       {{$reference := split $path "#"}}
       {{$title := index $reference 0}}
