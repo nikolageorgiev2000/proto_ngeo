@@ -7,8 +7,12 @@
         "id": "d8d25227cf875109",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "setup.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -58,7 +62,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "setup.md"
+              }
             }
           }
         ]
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "setup.md"
+              }
             }
           }
         ]
@@ -130,15 +140,15 @@
   },
   "active": "d8d25227cf875109",
   "lastOpenFiles": [
+    "updating.md",
+    "troubleshooting.md",
+    "showcase.md",
+    "search.md",
     "editing.md",
-    "Notes/Neural Network (NN).md",
-    "Notes/Bias-Variance Tradeoff.md",
-    "Notes/Neural Tangent Kernel (NTK).md",
-    "Notes/Moment Matching.md",
-    "Notes/Goedel's Incompleteness Theorems.md",
-    "Notes/No Free Lunch (NFL) Theorems.md",
-    "Notes/Generalized Linear Model (GLM).md",
-    "Notes/Regularization.md",
-    "Notes/Manifold Hypothesis.md"
+    "notes/images/github-actions.png.md",
+    "hosting.md",
+    "ignore notes.md",
+    "philosophy.md",
+    "config.md"
   ]
 }

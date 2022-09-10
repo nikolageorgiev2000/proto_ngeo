@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Nikola Georgiev
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -10,17 +10,17 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+# generates link to edit a post from GitHubLink
+enableGitHubEdit: false
+# GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  My notes on statistics and learning.
 page_title:
-  "🪴 Quartz 3.3"
+  "NGeo"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/nickinpractice
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/nikolageorgiev2000
