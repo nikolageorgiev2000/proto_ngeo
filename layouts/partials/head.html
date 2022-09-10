@@ -42,7 +42,7 @@
   {{$lightSyntax := resources.Get "styles/_light_syntax.scss" | resources.ToCSS (dict "outputStyle" "compressed") | resources.Fingerprint "md5" | resources.Minify  }}
   <link href="{{$lightSyntax.Permalink}}" rel="stylesheet" id="theme-link">
 
-  <!-- Add latex styling -->
+  <!-- Add latex styling (doesn't work??) -->
   <link rel="stylesheet" type="text/css" href="styles/latex.css">
 
   <!-- Base scripts -->
