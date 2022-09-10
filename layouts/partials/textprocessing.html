@@ -54,8 +54,6 @@
       {{else}}
         {{$fullhref := printf "%s%s" $href $block }}
         {{$link := printf "<a href=\"%s\" rel=\"noopener\" class=\"internal-link\" data-src=\"%s\">%s</a>" $fullhref $href $display}}
-        <!-- debugging line: -->
-        <!-- {{$link := printf "<a href=\"\" rel=\"noopener\" class=\"internal-link\" data-src=\"\"><br> inner:%s <br> split:%s <br> path:%s <br> reference:%s <br> title:%s <br> block:%s <br> href:%s <br> display:%s <br></a>" $inner $split $path $reference $title $block $href $display}} -->
         {{$content = replace $content . $link}}
       {{end}}
     {{end}}
