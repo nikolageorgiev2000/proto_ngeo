@@ -16,7 +16,7 @@ enableGitHubEdit: false
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  My notes on statistics and learning.
+  my personal website
 page_title:
   "NGeo"
 links:
