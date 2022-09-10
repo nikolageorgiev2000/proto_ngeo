@@ -20,11 +20,11 @@ html {
   }
 }
 
-// changed padding from 30 to 45
+// changed padding from 30=>20vw; 5=>10vw
 .singlePage {
-  padding: 4em 45vw;
+  padding: 4em 20vw;
   @media all and (max-width: 1200px) {
-    padding: 25px 5vw;
+    padding: 25px 10vw;
   }
 }
 
