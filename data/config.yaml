@@ -1,11 +1,13 @@
 name: Nikola Georgiev
 enableToc: true
 openToc: false
-enableLinkPreview: true
+# is bugged sadly
+enableLinkPreview: false
 enableLatex: true
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
-enableCallouts: true
+# callouts look unprofessional
+enableCallouts: false
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true

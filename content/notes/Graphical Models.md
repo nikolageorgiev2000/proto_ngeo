@@ -1,6 +1,5 @@
 ---
 title: "Graphical Models"
-alias: "PGMs"
 ---
 There are a variety of graphical models, which explicitly represent the structure of a joint PDF.  Three popular variants are described below. The more general framework of describing interaction between nodes - think particles - using graphs is extremely versatile.
 
