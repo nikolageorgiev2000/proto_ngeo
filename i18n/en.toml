@@ -20,13 +20,20 @@ other = "showing first 10 results"
 other = "Tag"
 
 [backlinks]
-other = "Backlinks"
+#other = "Backlinks"
+other = ""
 
 [no_backlinks]
 other = "No backlinks found"
 
 [home]
 other = "Home"
+
+# ADDED:
+[posts]
+other = "Posts"
+[notes]
+other = "Notes"
 
 [light_mode]
 other = "Light Mode"
@@ -38,7 +45,8 @@ other = "Dark Mode"
 other = "Edit Source"
 
 [interactive_graph]
-other = "Interactive Graph"
+# other = "Interactive Graph"
+other = ""
 
 [search]
 other = "Search"
