@@ -11,8 +11,8 @@
             <!-- {{ if not .IsHome }}
             <li><a href="{{ $.Site.BaseURL}}">{{ i18n "home" }}</a></li>
             {{end}} -->
-            <li><a href="{{ $.Site.BaseURL}}">{{ i18n "posts" }}</a></li>
-            <li><a href="{{ $.Site.BaseURL}}">{{ i18n "notes" }}</a></li>
+            <li><a href="{{ $.Site.BaseURL}}/posts">{{ i18n "posts" }}</a></li>
+            <li><a href="{{ $.Site.BaseURL}}/notes">{{ i18n "notes" }}</a></li>
             {{- range $data.links | default $.Site.Data.config.links -}}
             <li><a href="{{.link}}">{{.link_name}}</a></li>
             {{- end -}}
