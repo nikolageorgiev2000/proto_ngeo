@@ -1,11 +1,11 @@
 ---
 title: "The Metamorphosis of Prime Intellect (book review)"
 ---
-#### Review
+## Review
 In this novella by Roger Williams, an AGI named Prime Intellect masters physics through the so-called "Correlation Effect", thereby becoming god. Scary right? Fortunately, Prime Intellect keeps humanity alive due to the three laws of robotics as defined by Isaac Asimov. The book is equal parts 90s futurism and total perversion - the writing is definitely R-rated. The explicit descriptions of torture and sex might put off interested readers. However, I also respect Williams for not holding back. 
 
 The book is inevitably flawed. Any author writing prose that causes readers to contemplate humanity, intelligence, and meaning itself, has to cleverly hide their inability to provide an answer. Williams is not the strongest writer, but his passion for the fiction is unmistakeable. If you're intrigued by the idea of a technological singularity birthing a benevolent god, and aren't put off by crude writing, give it a read. Below I recall some juicy quotes.
-#### Quotes
+## Quotes
 Body and mind:
 - Irreversible damage progressed beyond the actual neural network and affected the data structures which make you conscious and capable of memory.
 - A few others found that certain nerve poisons worked permanently, because they quickly destroyed the information content of the brain -- what Prime Intellect was beginning to consider the real human, rather than the tangible body.
