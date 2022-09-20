@@ -10,3 +10,10 @@ Test 3 $\lbrace \mu_{j}, \sigma^2_{i} \rbrace$
 Test 4 $\{x\}$
 
 Test 5 $\mu_j \mu_j {\mu_j} \mu_{j}$
+
+Test 6 $\lbrace \mathbb{I}j_[x]\rbrace$
+
+Test 7 $$\lbrace \mathbb{I}j_[x]\rbrace$$
+
+Test 8 $\{\mathbb{I}j_[x]\}$
+
