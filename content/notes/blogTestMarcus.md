@@ -11,9 +11,9 @@ Test 4 $\{x\}$
 
 Test 5 $\mu_j \mu_j {\mu_j} \mu_{j}$
 
-Test 6 $\lbrace \mathbb{I}j_[x]\rbrace$
+Test 6 $\lbrace \mathbb{I}_j[x]\rbrace$
 
-Test 7 $$\lbrace \mathbb{I}j_[x]\rbrace$$
+Test 7 $$\lbrace \mathbb{I}_j[x]\rbrace$$
 
-Test 8 $\{\mathbb{I}j_[x]\}$
+Test 8 $\{\mathbb{I}_{j}[x]\}$
 
