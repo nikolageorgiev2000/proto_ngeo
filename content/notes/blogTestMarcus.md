@@ -23,11 +23,11 @@ Test 10 [[test]] $\lbrace \mathbb{I}_j[x]\rbrace$
 
 Test 11 $\lbrace\mathbb{I}_j[x]\rbrace$ and PDF is of the form
 
-Test 12 $\lbrace\mathbb{I}_j[x]\rbrace$ and PDF is of the form $$p_\theta = p_\alpha(x)p_\gamma(y|x) \propto \exp\left\lbrace\sum_j\alpha_j\mathbb{I}_j[x] + \sum_j (\gamma_jy+\gamma'_jy^2)\mathbb{I}_j[x]\right\rbrace$$
+Test 12 $\lbrace\mathbb{I}_j[x]\rbrace$ and PDF is of the form $$p_\theta = p_\alpha(x)$$
 
 Test 13 $\lbrace\mathbb{I}_j[x]\rbrace$ and PDF is of the form 
-$$p_\theta = p_\alpha(x)p_\gamma(y|x) \propto \exp\left\lbrace\sum_j\alpha_j\mathbb{I}_j[x] + \sum_j (\gamma_>
+$$p_\theta = p_\alpha(x)$$
 
 Test 14 $\lbrace\mathbb{I}_j[x]\rbrace$ and PDF is of the form 
 
-$$p_\theta = p_\alpha(x)p_\gamma(y|x) \propto \exp\left\lbrace\sum_j\alpha_j\mathbb{I}_j[x] + \sum_j (\gamma_>
+$$p_\theta = p_\alpha(x)$$
