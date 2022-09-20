@@ -18,3 +18,6 @@ Test 7 $$\lbrace \mathbb{I}_j[x]\rbrace$$
 Test 8 $\{\mathbb{I}_{j}[x]\}$
 
 Test 9 $\\\{\mathbb{I}_{j}[x]\\\}$
+
+Test 10 [[test]] $\lbrace \mathbb{I}_j[x]\rbrace$
+
