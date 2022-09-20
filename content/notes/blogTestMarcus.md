@@ -21,7 +21,13 @@ Test 9 $\\\{\mathbb{I}_{j}[x]\\\}$
 
 Test 10 [[test]] $\lbrace \mathbb{I}_j[x]\rbrace$
 
-Test 11 The distribution of $X$ is an [[notes/Exponential Families|exponential family]] with sufficient statistics $\lbrace\mathbb{I}_j[x]\rbrace$ and canonical parameters $\alpha$. Each Gaussian $Y$ conditioned on $X$ is also an exponential family with sufficient statistics $\lbrace y,y^2\rbrace$ and canonical parameters $(\gamma_j,\gamma'_j) := (\frac{\mu_j}{\sigma^2_j},-\frac{1}{2\sigma^2_j})$. The resulting PDF is of the form
+Test 11 $\lbrace\mathbb{I}_j[x]\rbrace$ and PDF is of the form
 
-Test 12 The distribution of $X$ is an [[notes/Exponential Families|exponential family]] with sufficient statistics $\lbrace\mathbb{I}_j[x]\rbrace$ and canonical parameters $\alpha$. Each Gaussian $Y$ conditioned on $X$ is also an exponential family with sufficient statistics $\lbrace y,y^2\rbrace$ and canonical parameters $(\gamma_j,\gamma'_j) := (\frac{\mu_j}{\sigma^2_j},-\frac{1}{2\sigma^2_j})$. The resulting PDF is of the form
-$$p_\theta = p_\alpha(x)p_\gamma(y|x) \propto \exp\left\lbrace\sum_j\alpha_j\mathbb{I}_j[x] + \sum_j (\gamma_jy+\gamma'_jy^2)\mathbb{I}_j[x]\right\rbrace$$
+Test 12 $\lbrace\mathbb{I}_j[x]\rbrace$ and PDF is of the form $$p_\theta = p_\alpha(x)p_\gamma(y|x) \propto \exp\left\lbrace\sum_j\alpha_j\mathbb{I}_j[x] + \sum_j (\gamma_jy+\gamma'_jy^2)\mathbb{I}_j[x]\right\rbrace$$
+
+Test 13 $\lbrace\mathbb{I}_j[x]\rbrace$ and PDF is of the form 
+$$p_\theta = p_\alpha(x)p_\gamma(y|x) \propto \exp\left\lbrace\sum_j\alpha_j\mathbb{I}_j[x] + \sum_j (\gamma_>
+
+Test 14 $\lbrace\mathbb{I}_j[x]\rbrace$ and PDF is of the form 
+
+$$p_\theta = p_\alpha(x)p_\gamma(y|x) \propto \exp\left\lbrace\sum_j\alpha_j\mathbb{I}_j[x] + \sum_j (\gamma_>
